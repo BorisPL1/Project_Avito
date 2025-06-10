@@ -1,7 +1,5 @@
-import requests
 from flask import Flask, request, jsonify, render_template_string
 import logging
-import polars as pl
 from datasets import Dataset
 from model_class import SentenceClassifier
 import json
