@@ -6,4 +6,3 @@ flask
 logging
 json
 flask_cors
-model_class
